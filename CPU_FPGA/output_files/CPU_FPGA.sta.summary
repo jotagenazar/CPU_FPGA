@@ -1,0 +1,133 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'debouncer:inst3|out_key'
+Slack : -6.245
+TNS   : -114.212
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_FPGA'
+Slack : -4.330
+TNS   : -37.994
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_FPGA'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'debouncer:inst3|out_key'
+Slack : 0.802
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'debouncer:inst3|out_key'
+Slack : -5.088
+TNS   : -71.748
+
+Type  : Slow 1100mV 85C Model Removal 'debouncer:inst3|out_key'
+Slack : 1.034
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'debouncer:inst3|out_key'
+Slack : -2.636
+TNS   : -52.139
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_FPGA'
+Slack : -0.538
+TNS   : -14.092
+
+Type  : Slow 1100mV 0C Model Setup 'debouncer:inst3|out_key'
+Slack : -6.386
+TNS   : -117.005
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_FPGA'
+Slack : -4.534
+TNS   : -37.102
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_FPGA'
+Slack : 0.436
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'debouncer:inst3|out_key'
+Slack : 0.729
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'debouncer:inst3|out_key'
+Slack : -5.282
+TNS   : -72.921
+
+Type  : Slow 1100mV 0C Model Removal 'debouncer:inst3|out_key'
+Slack : 1.042
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'debouncer:inst3|out_key'
+Slack : -2.636
+TNS   : -51.623
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_FPGA'
+Slack : -0.538
+TNS   : -14.203
+
+Type  : Fast 1100mV 85C Model Setup 'debouncer:inst3|out_key'
+Slack : -3.259
+TNS   : -56.662
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_FPGA'
+Slack : -2.452
+TNS   : -10.196
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_FPGA'
+Slack : 0.200
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'debouncer:inst3|out_key'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'debouncer:inst3|out_key'
+Slack : -2.730
+TNS   : -39.281
+
+Type  : Fast 1100mV 85C Model Removal 'debouncer:inst3|out_key'
+Slack : 0.539
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'debouncer:inst3|out_key'
+Slack : -2.174
+TNS   : -31.082
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_FPGA'
+Slack : -0.293
+TNS   : -1.936
+
+Type  : Fast 1100mV 0C Model Setup 'debouncer:inst3|out_key'
+Slack : -3.071
+TNS   : -53.362
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_FPGA'
+Slack : -2.073
+TNS   : -8.065
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_FPGA'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'debouncer:inst3|out_key'
+Slack : 0.267
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'debouncer:inst3|out_key'
+Slack : -2.521
+TNS   : -36.917
+
+Type  : Fast 1100mV 0C Model Removal 'debouncer:inst3|out_key'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'debouncer:inst3|out_key'
+Slack : -2.174
+TNS   : -31.023
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_FPGA'
+Slack : -0.304
+TNS   : -1.966
+
+------------------------------------------------------------
